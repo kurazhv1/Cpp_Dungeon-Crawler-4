@@ -1,0 +1,47 @@
+[
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\GameBlock.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\GameBlock.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/GameBlock.cpp"
+},
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\Item.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\Item.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/Item.cpp"
+},
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\Map.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\Map.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/Map.cpp"
+},
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\Monster.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\Monster.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/Monster.cpp"
+},
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\Player.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\Player.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/Player.cpp"
+},
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\Potion.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\Potion.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/Potion.cpp"
+},
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\Turn.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\Turn.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/Turn.cpp"
+},
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\Weapon.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\Weapon.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/Weapon.cpp"
+},
+{
+  "directory": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/build",
+  "command": "D:\\Coding\\MinGW-win64\\MinGW-win64\\mingw64\\bin\\g++.exe  @CMakeFiles/Exercise.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -g -Wno-missing-field-initializers -o CMakeFiles\\Exercise.dir\\src\\main.cpp.obj -c D:\\All_Codes\\C++\\Aalto_Lectures\\project_Dungeon_Crawler_4\\src\\main.cpp",
+  "file": "D:/All_Codes/C++/Aalto_Lectures/project_Dungeon_Crawler_4/src/main.cpp"
+}
+]
