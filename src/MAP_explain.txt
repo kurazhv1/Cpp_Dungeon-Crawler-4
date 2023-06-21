@@ -1,0 +1,7 @@
+W - Wall
+R - Road
+G - Goal
+P - Player
+M - Monster
+O - POtion
+E - WEapon
